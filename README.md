@@ -60,7 +60,7 @@ OpenWrt ATTITUDE ADJUSTMENT 12.09, r36088
 ## Installation
 To install ramcleaner, type these commands:
 ```
-$ git clone git://github.com/FreeNIX-Security-Labs/memcleaner/
+$ git clone https://github.com/mirkocalabrese-dev/ramcleaner
 $ cd ramcleaner
 $ chmod 755 install.sh
 # ./install.sh
